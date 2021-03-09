@@ -1,4 +1,4 @@
-This video app uses youtube api to fetch videos from youtube server and render on screen.
+This React based video app uses youtube api to fetch videos from youtube server and render on screen. 
 
 Features :
  * Clean Interface 
